@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "KingdomCalculator.UI/1.0.0": {
+        "dependencies": {
+          "KingdomCalculator.Commons": "1.0.0",
+          "KingdomCalculator.Core": "1.0.0"
+        },
+        "runtime": {
+          "KingdomCalculator.UI.dll": {}
+        }
+      },
+      "KingdomCalculator.Commons/1.0.0": {
+        "runtime": {
+          "KingdomCalculator.Commons.dll": {}
+        }
+      },
+      "KingdomCalculator.Core/1.0.0": {
+        "dependencies": {
+          "KingdomCalculator.Commons": "1.0.0"
+        },
+        "runtime": {
+          "KingdomCalculator.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KingdomCalculator.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KingdomCalculator.Commons/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KingdomCalculator.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

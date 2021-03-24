@@ -1,0 +1,120 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SimpleCalculator.Commons/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/SimpleCalculator.Commons.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SimpleCalculator.Commons.dll": {}
+        }
+      },
+      "SimpleCalculator.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "SimpleCalculator.Commons": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SimpleCalculator.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SimpleCalculator.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleCalculator.Commons/1.0.0": {
+      "type": "project",
+      "path": "../KingdomCalculator.Utilities/SimpleCalculator.Commons.csproj",
+      "msbuildProject": "../KingdomCalculator.Utilities/SimpleCalculator.Commons.csproj"
+    },
+    "SimpleCalculator.Core/1.0.0": {
+      "type": "project",
+      "path": "../KingdomCalculator.Core/SimpleCalculator.Core.csproj",
+      "msbuildProject": "../KingdomCalculator.Core/SimpleCalculator.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "SimpleCalculator.Commons >= 1.0.0",
+      "SimpleCalculator.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\hp\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\LexRepos\\simplecalculator\\Simple-Calculator\\KingdomCalculator.UI\\SimpleCalculator.UI.csproj",
+      "projectName": "SimpleCalculator.UI",
+      "projectPath": "C:\\LexRepos\\simplecalculator\\Simple-Calculator\\KingdomCalculator.UI\\SimpleCalculator.UI.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "C:\\LexRepos\\simplecalculator\\Simple-Calculator\\KingdomCalculator.UI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\LexRepos\\simplecalculator\\Simple-Calculator\\KingdomCalculator.Core\\SimpleCalculator.Core.csproj": {
+              "projectPath": "C:\\LexRepos\\simplecalculator\\Simple-Calculator\\KingdomCalculator.Core\\SimpleCalculator.Core.csproj"
+            },
+            "C:\\LexRepos\\simplecalculator\\Simple-Calculator\\KingdomCalculator.Utilities\\SimpleCalculator.Commons.csproj": {
+              "projectPath": "C:\\LexRepos\\simplecalculator\\Simple-Calculator\\KingdomCalculator.Utilities\\SimpleCalculator.Commons.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

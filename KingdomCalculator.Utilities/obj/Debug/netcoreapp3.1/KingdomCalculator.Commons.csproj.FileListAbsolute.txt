@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\KingdomCalculator\KingdomCalculator.Utilities\bin\Debug\netcoreapp3.1\KingdomCalculator.Commons.deps.json
+C:\Users\hp\source\repos\KingdomCalculator\KingdomCalculator.Utilities\bin\Debug\netcoreapp3.1\KingdomCalculator.Commons.dll
+C:\Users\hp\source\repos\KingdomCalculator\KingdomCalculator.Utilities\bin\Debug\netcoreapp3.1\KingdomCalculator.Commons.pdb
+C:\Users\hp\source\repos\KingdomCalculator\KingdomCalculator.Utilities\obj\Debug\netcoreapp3.1\KingdomCalculator.Commons.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\KingdomCalculator\KingdomCalculator.Utilities\obj\Debug\netcoreapp3.1\KingdomCalculator.Commons.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\KingdomCalculator\KingdomCalculator.Utilities\obj\Debug\netcoreapp3.1\KingdomCalculator.Commons.AssemblyInfo.cs
+C:\Users\hp\source\repos\KingdomCalculator\KingdomCalculator.Utilities\obj\Debug\netcoreapp3.1\KingdomCalculator.Commons.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\KingdomCalculator\KingdomCalculator.Utilities\obj\Debug\netcoreapp3.1\KingdomCalculator.Commons.dll
+C:\Users\hp\source\repos\KingdomCalculator\KingdomCalculator.Utilities\obj\Debug\netcoreapp3.1\KingdomCalculator.Commons.pdb

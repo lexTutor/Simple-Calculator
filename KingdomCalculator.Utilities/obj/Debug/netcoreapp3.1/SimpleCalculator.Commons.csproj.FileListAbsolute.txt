@@ -1,0 +1,9 @@
+C:\LexRepos\simplecalculator\Simple-Calculator\KingdomCalculator.Utilities\bin\Debug\netcoreapp3.1\SimpleCalculator.Commons.deps.json
+C:\LexRepos\simplecalculator\Simple-Calculator\KingdomCalculator.Utilities\bin\Debug\netcoreapp3.1\SimpleCalculator.Commons.dll
+C:\LexRepos\simplecalculator\Simple-Calculator\KingdomCalculator.Utilities\bin\Debug\netcoreapp3.1\SimpleCalculator.Commons.pdb
+C:\LexRepos\simplecalculator\Simple-Calculator\KingdomCalculator.Utilities\obj\Debug\netcoreapp3.1\SimpleCalculator.Commons.csprojAssemblyReference.cache
+C:\LexRepos\simplecalculator\Simple-Calculator\KingdomCalculator.Utilities\obj\Debug\netcoreapp3.1\SimpleCalculator.Commons.AssemblyInfoInputs.cache
+C:\LexRepos\simplecalculator\Simple-Calculator\KingdomCalculator.Utilities\obj\Debug\netcoreapp3.1\SimpleCalculator.Commons.AssemblyInfo.cs
+C:\LexRepos\simplecalculator\Simple-Calculator\KingdomCalculator.Utilities\obj\Debug\netcoreapp3.1\SimpleCalculator.Commons.csproj.CoreCompileInputs.cache
+C:\LexRepos\simplecalculator\Simple-Calculator\KingdomCalculator.Utilities\obj\Debug\netcoreapp3.1\SimpleCalculator.Commons.dll
+C:\LexRepos\simplecalculator\Simple-Calculator\KingdomCalculator.Utilities\obj\Debug\netcoreapp3.1\SimpleCalculator.Commons.pdb
